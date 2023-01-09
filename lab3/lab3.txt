@@ -1,0 +1,8 @@
+
+  1.
+  Create a method for all arrays to sum an array of numbers.
+  If any element in the array is not a number, the method should
+  throw an error with a message: 'Target array must contain numbers only'.
+
+
+ 
